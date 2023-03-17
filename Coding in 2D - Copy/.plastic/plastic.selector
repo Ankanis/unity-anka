@@ -1,0 +1,4 @@
+repository "Rith@local"
+  path "/"
+    br "/main"
+    co "/main"
